@@ -17,6 +17,8 @@ NODEJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodej
 
 TAILWIND <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"/><br>
 
+STYLED COMPONENTS <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="40" width="52" alt="styledcomponents logo"/><br>
+
 JAVASCRIPT <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
 
 HTML5 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
