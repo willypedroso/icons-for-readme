@@ -17,7 +17,7 @@ NODEJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodej
 
 TAILWIND <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"/><br>
 
-STYLED COMPONENTS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-plain.svg" height="40" width="52" alt="tailwindcss logo"/><br>
+STYLED COMPONENTS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styled-components/styled-components-plain.svg" height="40" width="52" alt="styled-components logo"/><br>
 
 JAVASCRIPT <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
 
