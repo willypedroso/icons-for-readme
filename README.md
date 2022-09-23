@@ -17,8 +17,6 @@ NODEJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodej
 
 TAILWIND <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"/><br>
 
-STYLED COMPONENTS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styled-components/styled-components-plain.svg" height="40" width="52" alt="styled-components logo"/><br>
-
 JAVASCRIPT <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
 
 HTML5 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
@@ -46,3 +44,5 @@ INSTAGRAM <a href="https://instagram.com/???????" target="_blank"><img src="http
 GMAIL <a href = "mailto:?????@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 
 LINKEDIN <a href="https://www.linkedin.com/in/??????" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+[MAIS ICONES](https://github.com/devicons/devicon/tree/v2.15.1/icons/)
